@@ -1,0 +1,19 @@
+.calculator{
+    width: 300px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    display: felx;
+    flex-wrap: wrap;
+}
+input{
+    width: 100%;
+    padding: 5px;
+}
+.btn{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
