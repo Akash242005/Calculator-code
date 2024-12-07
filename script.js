@@ -3,7 +3,7 @@ function displayvalue(val){
 }
 function clearscreen(){
     document.getElementById("display").value = " "
-}
+} 
 function calculate(){
     var userinput = document.getElementById("display").value
     var result = eval(userinput)
